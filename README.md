@@ -3,9 +3,8 @@
 ## 월간 계획
 - `스프링 MVC 1편`부터 진행됩니다!
 
-![스터디 월간계획.png](<img width="872" alt="스터디 월간계획" src="https://github.com/Hong-ji-min/Inflearn_Spring/assets/80135858/4d1115e3-8682-4ad4-b8cc-be0c66db3144">
+<img width="872" alt="스터디 월간계획" src="https://github.com/Hong-ji-min/Inflearn_Spring/assets/80135858/4d1115e3-8682-4ad4-b8cc-be0c66db3144">
 
-)
 
 
 ## 진행 방식
